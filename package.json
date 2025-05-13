@@ -1,0 +1,27 @@
+{
+  "name": "github.io",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LamNDQ/github.io#readme",
+  "bugs": {
+    "url": "https://github.com/LamNDQ/github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LamNDQ/github.io.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.6",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6",
+    "vite": "^6.3.5"
+  }
+}
